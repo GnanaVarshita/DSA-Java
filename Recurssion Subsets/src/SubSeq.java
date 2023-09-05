@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//sub set method
 public class SubSeq {
     public static void main(String[] args) {
     subseq("","abc");
