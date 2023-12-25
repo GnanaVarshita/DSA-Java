@@ -1,4 +1,4 @@
-import java.util.Random;
+/*import java.util.Random;
 public class RandomString {
     static String generate(int size){
         StringBuffer sb = new StringBuffer();
@@ -14,3 +14,5 @@ public class RandomString {
 
     }
 }
+*/
+
